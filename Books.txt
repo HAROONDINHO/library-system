@@ -1,0 +1,4 @@
+PQ7797/Mathematics of Discrete Structures for Computer Science/Gordon J. Pace/Springer-Verlag Berlin Heidelberg/19/01-01-2009
+GH8762/Kinematics and Dynamics of Machinery/J.Peter Sadler/Pearson/20/01-01-2009
+MK9866/C++ All-In-One Desk Reference For Dummies Paperback/Jeff Cogswell/John Wiley And Sons Inc/19/01-01-2009
+9780134686097/Effective Java/Joshua Bloch/Addison-Wesley Professional/3/08-05-2021
